@@ -5,7 +5,7 @@
 
 I do web development, GitHub, Python, and more.
 🛠 I love automating processes and experimenting with technologies. 
-📫 Contact me: ibragimtate@gmail.com
+
 
 ---
 > 👀 Stay tuned!
